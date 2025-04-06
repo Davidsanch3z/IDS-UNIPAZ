@@ -1,6 +1,6 @@
 import requests
 
-BOT_TOKEN = '7622024612:AAFUi5aHVTruy34kzAtbbz0Tzt-lnO2c_jo'
+BOT_TOKEN = ''
 CHAT_ID = 1946539443
 
 def enviar_alerta(mensaje):
